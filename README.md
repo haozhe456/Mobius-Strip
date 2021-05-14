@@ -1,2 +1,2 @@
 # Mobius-Strip
-//Inspired by Halfbrick's "Jetpack Joyride"
+Inspired by Halfbrick's "Jetpack Joyride"
